@@ -3,7 +3,7 @@
 Author: Daniel Romero-Mujalli
 
 University of Greifswald
-email: danielrm84@gmail.com
+Email: danielrm84@gmail.com
 
 This is a map generator of artificial landscapes for Netlogo. It can be used to create scenarios of fragmented landscapes (habitat suitability maps)
 
@@ -28,7 +28,7 @@ If no name for the file is provided, the function writes a map.png file by defau
 As well, it is possible to import a map, based on the provided filename, to work it further, if necessary 
 (e.g., change the color of the patches and prepare the map to import it into another model) 
 
-Acknowledgements
+Acknowledgements:
 Especial thanks to https://github.com/klaytonkowalski and the
 youtube channel of Mathematics of Computer Graphics and Virtual
 Environments for their very useful and valuable material, which
