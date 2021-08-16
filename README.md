@@ -33,3 +33,6 @@ Especial thanks to https://github.com/klaytonkowalski and the
 youtube channel of Mathematics of Computer Graphics and Virtual
 Environments for their very useful and valuable material, which
 helped me in the development of this map generator.
+
+References:
+With, K., Gardner, R., & Turner, M. (1997). Landscape Connectivity and Population Distributions in Heterogeneous Environments. <i>Oikos,</i> <i>78</i>(1), 151-169. doi:10.2307/3545811
